@@ -8,11 +8,17 @@ From: Lpz
 ## Das Originalrezept der Spaghetti Amatriciana 
 
 Olivenöl 
+
 Rote Zwiebel
+
 Schwarzer Pfeffer
+
 Meersalz
+
 Eiertomaten aus der Dose
+
 Pecorino
+
 Der Pecorino ist ein würziger Käse aus Schafsmilch. Du kannst ihn auch durch Parmesan ersetzen
 
 ## Definition Prokrastination
