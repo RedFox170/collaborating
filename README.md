@@ -1,8 +1,11 @@
 # collaborating
 
 ## Vita:
+
 Oliver K.
+
 Age:34
+
 From: Lpz
 
 ## Das Originalrezept der Spaghetti Amatriciana 
